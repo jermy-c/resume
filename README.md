@@ -1,6 +1,7 @@
-# PROFESSIONAL PORTFOLIO
 
-## EDUCATION
+## PROFESSIONAL PORTFOLIO
+
+### EDUCATION
 
 **Candidate for Associates of Information Technology**
 
@@ -16,15 +17,18 @@ University of Belize, Belmopan, Cayo, Aug. 2020 - present
 **Relevant Courses:** Web Development, Data Structures, Networking Fundamentals, Systems Analysis and
 Design, Hardware Fundamentals
 
-## WORK EXPERIENCE
+### WORK EXPERIENCE
 
-**Bella Digital** - Web Developer
+**Web Developer,** Honduras, March 2022 - present
 
-_March 2022 - Present_
+- Build client websites 
+  - Static HTML website 
+  - Work with basic FB apis
+  - Work with basic Git commands and UI
+- Install google analytics and ensure it works
+- Test websites and applications, including links and adding and editing data
 
-
-
-## HOBBIES
+### HOBBIES
 
 - Drawing
 - Watching videos
