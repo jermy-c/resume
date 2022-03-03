@@ -1,6 +1,9 @@
+# PROFESSIONAL PORTFOLIO
+
 ## EDUCATION
 
 **Candidate for Associates of Information Technology**
+
 University of Belize, Belmopan, Cayo, Aug. 2020 - present
 
 **Relevant Assignments:**
@@ -12,3 +15,17 @@ University of Belize, Belmopan, Cayo, Aug. 2020 - present
 
 **Relevant Courses:** Web Development, Data Structures, Networking Fundamentals, Systems Analysis and
 Design, Hardware Fundamentals
+
+## WORK EXPERIENCE
+
+**Bella Digital** - Web Developer
+
+_March 2022 - Present_
+
+
+
+## HOBBIES
+
+- Drawing
+- Watching videos
+- Browsing the internet
