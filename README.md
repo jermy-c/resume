@@ -1,4 +1,4 @@
-# Jeremy Chang
+## RESUME
 
 ### EDUCATION
 
