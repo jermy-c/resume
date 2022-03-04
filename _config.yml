@@ -3,3 +3,11 @@ description:
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+titles_from_headings:
+  enabled:     false
+  strip_title: false
+  collections: false
+
+plugins:
+  - jekyll-titles-from-headings
