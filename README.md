@@ -1,8 +1,5 @@
 # Jeremy Chang
 
-
-## PROFESSIONAL PORTFOLIO
-
 ### EDUCATION
 
 **Candidate for Associates of Information Technology**
