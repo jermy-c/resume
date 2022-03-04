@@ -1,4 +1,4 @@
-## PROFESSIONAL PORTFOLIO
+# Jeremy Chang
 
 ### EDUCATION
 
